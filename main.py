@@ -1,4 +1,4 @@
-Python code 
+
 def hello():
     print("hi")
 
